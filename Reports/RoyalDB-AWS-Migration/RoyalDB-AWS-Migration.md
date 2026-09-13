@@ -311,3 +311,43 @@ The public repository should not contain:
 - Session tokens
 - Private key files
 - Production credentials
+
+## Migration Evidence
+
+The following screenshots document key stages and validation results from the RoyalDB migration.
+
+### Amazon RDS Deployment
+
+The RoyalDB target database is deployed as an Amazon RDS for PostgreSQL instance in the Royal Technology Solutions AWS environment.
+
+![RoyalDB Amazon RDS Instance](../../Screenshots/RoyalDB-AWS-Migration/01-RoyalDB-RDS-Instance.png)
+
+### Restored Database Tables
+
+Post-migration validation confirmed all seven RoyalDB relational tables were successfully restored to Amazon RDS.
+
+![RoyalDB Restored Tables](../../Screenshots/RoyalDB-AWS-Migration/02-RoyalDB-Restored-Tables.png)
+
+### Row Count Validation
+
+Row counts were verified after migration to confirm that the source data was successfully transferred.
+
+![RoyalDB Row Count Validation](../../Screenshots/RoyalDB-AWS-Migration/03-RoyalDB-Row-Count-Validation.png)
+
+### Relationship Validation
+
+A multi-table SQL JOIN validated relationships between tickets, customers, devices, technician assignments, and technicians.
+
+![RoyalDB Relationship Validation](../../Screenshots/RoyalDB-AWS-Migration/04-RoyalDB-Relationship-Validation.png)
+
+### Role-Based Access Control
+
+PostgreSQL access privileges were validated for the DBA, technician, and read-only group roles.
+
+![RoyalDB RBAC Privileges](../../Screenshots/RoyalDB-AWS-Migration/05-RoyalDB-RBAC-Privileges.png)
+
+### Default Privileges
+
+Default PostgreSQL privileges were configured so future tables and sequences created by the database administrator inherit the appropriate least-privilege access model.
+
+![RoyalDB Default Privileges](../../Screenshots/RoyalDB-AWS-Migration/06-RoyalDB-Default-Privileges.png)
