@@ -256,3 +256,49 @@ The long-term direction is to continue integrating the existing on-premises infr
 **LaVon Thomas**  
 Systems & Infrastructure Engineer  
 B.S. Computer Information Systems — Cybersecurity, Post University
+
+## Featured Infrastructure Projects
+
+### Enterprise Network Infrastructure
+
+A fully implemented Cisco Packet Tracer enterprise network designed as the networking foundation for Royal Technology Solutions.
+
+The environment includes:
+
+- 23 VLANs across data, server, and voice networks
+- 4 multilayer distribution switches
+- 4 core routers
+- HSRP first-hop redundancy
+- OSPF dynamic routing
+- 802.1Q trunking
+- Centralized DHCP and DNS
+- HTTPS web services
+- SMTP/POP3 email services
+- Cisco CME and 11 enterprise VoIP extensions
+- Switch port security
+- End-to-end service validation
+- Documented troubleshooting and break-fix scenarios
+
+**Technical Documentation:**  
+[Royal Technology Solutions — Enterprise Network Infrastructure](Documentation/Enterprise-Network/Royal-Technology-Solutions-Enterprise-Network.md)
+
+### RoyalDB AWS Migration
+
+RoyalDB is the PostgreSQL relational database backend for Royal Technology Solutions. The project demonstrates migration of the database from the on-premises lab environment into a private AWS architecture using EC2, RDS for PostgreSQL, S3, IAM, Systems Manager, and PostgreSQL backup/restore tooling.
+
+Migration validation included schema objects, relational constraints, sequences, relationships, role-based access controls, and source-to-target row-count verification.
+
+**Technical Documentation:**  
+[RoyalDB AWS Migration](Reports/RoyalDB-AWS-Migration/RoyalDB-AWS-Migration.md)
+
+## Project Direction
+
+Royal Technology Solutions is being developed as an integrated enterprise infrastructure environment rather than a collection of isolated labs.
+
+The project progressively connects:
+
+**Enterprise Networking → Windows Server Infrastructure → Cybersecurity → RoyalDB → Automation → AWS → Hybrid Cloud**
+
+The objective is to build, validate, document, and progressively migrate the infrastructure required to operate a realistic managed IT services and cybersecurity environment.
+
+
