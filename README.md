@@ -114,9 +114,8 @@ The migration included:
 
 All seven RoyalDB tables and 25 existing records were successfully migrated and validated.
 
-Full technical documentation:
-
-`Reports/RoyalDB-AWS-Migration/RoyalDB-AWS-Migration.md`
+**Technical Documentation:**
+[RoyalDB AWS Migration](Reports/RoyalDB-AWS-Migration/RoyalDB-AWS-Migration.md)
 
 ## RoyalDB Data Model
 
