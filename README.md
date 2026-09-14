@@ -71,6 +71,27 @@ Migration validation included schema objects, relational constraints, sequences,
 
 ## Project Areas
 
+### Enterprise Network Engineering
+
+The enterprise network provides the communications foundation for Royal Technology Solutions and was designed to model a segmented, redundant, multi-department business environment.
+
+The network engineering implementation includes:
+
+- 23 data, server, and voice VLANs
+- Structured IPv4 subnetting across departmental networks
+- Four multilayer distribution switches
+- Four core routers
+- HSRP first-hop gateway redundancy
+- OSPF dynamic routing across the routed core
+- 802.1Q trunking between switching infrastructure
+- Centralized DHCP and DNS service integration
+- HTTPS and enterprise email service connectivity
+- Cisco CME VoIP with 11 departmental extensions
+- Switch port security
+- Redundant-path and routing validation
+- End-to-end connectivity and application-service testing
+- Documented troubleshooting and break-fix validation
+
 ### Windows Infrastructure Automation
 
 PowerShell automation is used to collect live infrastructure data from the Royalty.Local Active Directory environment and generate timestamped administrative reports.
