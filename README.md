@@ -3,6 +3,13 @@
 A hands-on enterprise infrastructure project designed and implemented to develop practical systems administration, automation, networking, database, security, and cloud engineering skills.
 
 The environment began as an on-premises Windows Server home lab and has expanded into a hybrid-cloud architecture integrating Microsoft infrastructure, PostgreSQL database services, PowerShell automation, and Amazon Web Services (AWS).
+
+## Enterprise Architecture Overview
+
+![Royal Technology Solutions Enterprise Network Architecture](Documentation/Enterprise-Network/Royal-Technology-Solutions/01-Royal-Technology-Solutions-Full-Topology.png)
+
+*Royal Technology Solutions enterprise network architecture showing departmental data and voice VLAN segmentation, redundant multilayer switching and routing, centralized infrastructure services, and enterprise VoIP.*
+
 ## Featured Infrastructure Projects
 
 ### Enterprise Network Infrastructure
