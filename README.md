@@ -269,6 +269,21 @@ Sensitive information should never be committed to this repository, including:
 
 ## Technologies Used
 
+### Networking & Communications
+
+- Cisco Packet Tracer
+- Cisco IOS
+- Layer 2 and Layer 3 switching
+- VLAN segmentation
+- 802.1Q trunking
+- HSRP first-hop redundancy
+- OSPF dynamic routing
+- DHCP and DNS integration
+- Cisco CME VoIP
+- IP telephony
+- Switch port security
+- Enterprise network troubleshooting
+
 ### Microsoft & Infrastructure
 
 - Windows Server 2025
@@ -277,6 +292,14 @@ Sensitive information should never be committed to this repository, including:
 - Active Directory PowerShell Module
 - Windows Management Instrumentation / CIM
 - Windows Services
+- Group Policy
+- DNS and DHCP Services
+- IIS Web Services
+- SMB File Services
+- Windows Defender Firewall
+- Oracle VirtualBox
+- Snort IDS/IPS
+- Veeam Backup & Recovery
 
 ### Database
 
@@ -298,6 +321,16 @@ Sensitive information should never be committed to this repository, including:
 
 ## Skills Demonstrated
 
+- Enterprise network design and implementation
+- Cisco routing and switching
+- VLAN and subnet architecture
+- HSRP gateway redundancy
+- OSPF dynamic routing
+- 802.1Q trunk configuration
+- Enterprise VoIP and Cisco CME
+- Network service integration
+- Network security and port security
+- End-to-end network troubleshooting
 - Windows Server administration
 - Active Directory administration
 - PowerShell scripting and automation
