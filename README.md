@@ -327,12 +327,6 @@ The long-term direction is to continue integrating the existing on-premises infr
 Systems & Infrastructure Engineer  
 B.S. Computer Information Systems — Cybersecurity, Post University
 
-Royal Technology Solutions is being developed as an integrated enterprise infrastructure environment rather than a collection of isolated labs.
 
-The project progressively connects:
-
-**Enterprise Networking → Windows Server Infrastructure → Cybersecurity → RoyalDB → Automation → AWS → Hybrid Cloud**
-
-The objective is to build, validate, document, and progressively migrate the infrastructure required to operate a realistic managed IT services and cybersecurity environment.
 
 
