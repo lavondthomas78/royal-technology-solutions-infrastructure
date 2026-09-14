@@ -61,8 +61,6 @@ Migration validation included schema objects, relational constraints, sequences,
 **Technical Documentation:**  
 [RoyalDB AWS Migration](Reports/RoyalDB-AWS-Migration/RoyalDB-AWS-Migration.md)
 
-## Project Direction
-
 ## Project Areas
 
 ### Windows Infrastructure Automation
