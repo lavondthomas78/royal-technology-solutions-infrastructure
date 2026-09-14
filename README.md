@@ -319,6 +319,7 @@ Sensitive information should never be committed to this repository, including:
 - Windows Defender Firewall
 - Oracle VirtualBox
 - Snort IDS/IPS
+- PRTG Network Monitor
 - Veeam Backup & Recovery
 
 ### Database
