@@ -281,6 +281,30 @@ The environment includes:
 
 **Technical Documentation:**  
 [Royal Technology Solutions — Enterprise Network Infrastructure](Documentation/Enterprise-Network/Royal-Technology-Solutions-Enterprise-Network.md)
+### Royalty.Local — Windows Server 2025 Enterprise Infrastructure
+
+Royalty.Local is the Windows Server and systems-engineering foundation supporting the broader Royal Technology Solutions environment.
+
+The virtualized enterprise server environment includes:
+
+- Windows Server 2025
+- Active Directory Domain Services (AD DS)
+- DNS and DHCP infrastructure
+- Organizational Units, users, and security groups
+- Group Policy administration
+- SMB file services
+- IIS web hosting
+- Windows Defender Firewall security controls
+- Snort IDS/IPS
+- Centralized logging and infrastructure monitoring
+- Veeam backup and recovery
+- PostgreSQL / RoyalDB integration
+- Oracle VirtualBox virtualization
+- Service validation, troubleshooting, and security testing
+- Documented implementation evidence
+
+**Technical Documentation:**  
+[Royalty.Local — Windows Server 2025 Enterprise Infrastructure](Documentation/Royalty-Local-Windows-Server/Royalty-Local-Windows-Server-Infrastructure.md)
 
 ### RoyalDB AWS Migration
 
