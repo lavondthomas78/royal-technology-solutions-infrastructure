@@ -34,6 +34,7 @@ The environment includes:
 
 **Technical Documentation:**  
 [Royal Technology Solutions — Enterprise Network Infrastructure](Documentation/Enterprise-Network/Royal-Technology-Solutions-Enterprise-Network.md)
+
 ### Royalty.Local — Windows Server 2025 Enterprise Infrastructure
 
 Royalty.Local is the Windows Server and systems-engineering foundation supporting the broader Royal Technology Solutions environment.
