@@ -204,6 +204,17 @@ These scripts provide repeatable validation of data completeness, database const
 ```text
 Infrastructure-Automation-GitHub/
 |
++-- Documentation/
+|   +-- Enterprise-Network/
+|   |   +-- Royal-Technology-Solutions-Enterprise-Network.md
+|   |   +-- Royal-Technology-Solutions/
+|   |       +-- Enterprise network implementation evidence
+|   |
+|   +-- Royalty-Local-Windows-Server/
+|       +-- Royalty-Local-Windows-Server-Infrastructure.md
+|       +-- Evidence/
+|           +-- Windows Server implementation evidence
+|
 +-- Scripts/
 |   +-- Get-ADUserReport.ps1
 |   +-- Get-ComputerInventory.ps1
@@ -222,12 +233,7 @@ Infrastructure-Automation-GitHub/
 |       +-- RoyalDB-AWS-Migration.md
 |
 +-- Screenshots/
-|   +-- AD-User-Report.png
-|   +-- Computer-Inventory.png
-|   +-- Domain-Health.png
-|   +-- Server-Health.png
-|   +-- Service-Health.png
-|   |
+|   +-- Infrastructure automation evidence
 |   +-- RoyalDB-AWS-Migration/
 |
 +-- .gitignore
