@@ -692,15 +692,71 @@ Key Server Room evidence includes:
 
 VoIP implementation was documented as phones and extensions were progressively deployed across the enterprise.
 
+### VoIP Validation Screenshots
+
+The following screenshots provide implementation evidence for Cisco CME registration, IP phone provisioning, extension assignment, and successful end-to-end VoIP communication across the Royal Technology Solutions enterprise network.
+
+#### CME Registration and Phone Provisioning
+
+![Cisco CME Phone Registration](Royal-Technology-Solutions/63-VoIP-Phone-CME-Registration.png)
+
+*Cisco CME registration validation.*
+
+![Registered Cisco IP Phone](Royal-Technology-Solutions/64-VoIP-Phone-Registered-Idle-Screen.png)
+
+*Cisco IP phone successfully registered and operational.*
+
+![VoIP Extension 1002](Royal-Technology-Solutions/65-VoIP-Extension-1002-Registered.png)
+
+*Extension 1002 registered with the enterprise VoIP environment.*
+
+#### End-to-End VoIP Call Validation
+
+![VoIP End-to-End Call](Royal-Technology-Solutions/66-VoIP-End-to-End-Call-Validation.png)
+
+*Successful end-to-end VoIP call validation.*
+
+![VoIP Extension 1004](Royal-Technology-Solutions/68-VoIP-Extension-1004-Call-Validation.png)
+
+*Extension 1004 call validation.*
+
+![VoIP Extension 1005](Royal-Technology-Solutions/69-VoIP-Extension-1005-Call-Validation.png)
+
+*Extension 1005 call validation.*
+
+![VoIP Extension 1006](Royal-Technology-Solutions/70-VoIP-Extension-1006-Call-Validation.png)
+
+*Extension 1006 call validation.*
+
+![VoIP Extension 1007](Royal-Technology-Solutions/71-VoIP-Extension-1007-Call-Validation.png)
+
+*Extension 1007 call validation.*
+
+![VoIP Extension 1008](Royal-Technology-Solutions/72-VoIP-Extension-1008-Call-Validation.png)
+
+*Extension 1008 call validation.*
+
+![VoIP Extension 1009](Royal-Technology-Solutions/73-VoIP-Extension-1009-Call-Validation.png)
+
+*Extension 1009 call validation.*
+
+![VoIP Extension 1010](Royal-Technology-Solutions/74-VoIP-Extension-1010-Call-Validation.png)
+
+*Extension 1010 call validation.*
+
+![VoIP Extension 1011](Royal-Technology-Solutions/75-VoIP-Extension-1011-Call-Validation.png)
+
+*Final cross-network call validation involving extension 1011, demonstrating operational voice VLAN, DHCP, CME registration, routing, and end-to-end VoIP connectivity.*
+
 Key evidence includes:
 
 - **63 — VoIP Phone CME Registration**
 - **64 — VoIP Phone Registered Idle Screen**
 - **65 — VoIP Extension 1002 Registered**
 - **66 — VoIP End-to-End Call Validation**
-- **67 — VoIP Extension 1003 Call Validation**
 - **68 — VoIP Extension 1004 Call Validation**
 - **69 — VoIP Extension 1005 Call Validation**
+- **70 — VoIP Extension 1006 Call Validation**
 - **71 — VoIP Extension 1007 Call Validation**
 - **72 — VoIP Extension 1008 Call Validation**
 - **73 — VoIP Extension 1009 Call Validation**
@@ -708,6 +764,9 @@ Key evidence includes:
 - **75 — VoIP Extension 1011 Call Validation**
 
 The final screenshot, **75 — VoIP Extension 1011 Call Validation**, documents a connected call between ICT extension `1011` and Admin extension `1010`.
+The final screenshot, **75 — VoIP Extension 1011 Call Validation**, documents a connected call between ICT extension `1011` and Admin extension `1010`.
+The final screenshot, **75 — VoIP Extension 1011 Call Validation**, documents a connected call between ICT extension `1011` and Admin extension `1010`.
+
 
 ### Evidence Strategy
 
